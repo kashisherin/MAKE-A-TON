@@ -11,11 +11,17 @@ ENV/
 
 # Database & testing
 *.sqlite3
+!Brightloop_Subscription_Control_Tower/outputs/brightloop_300_clients.sqlite3
 *.db
 .pytest_cache/
 .coverage
 htmlcov/
 *.pdf
+!Brightloop_Subscription_Control_Tower/outputs/*.pdf
+
+# Node
+node_modules/
+dist/
 
 # Environment
 .env
@@ -24,4 +30,3 @@ htmlcov/
 # IDE
 .vscode/
 .idea/
-
