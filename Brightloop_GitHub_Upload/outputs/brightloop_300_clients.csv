@@ -1,0 +1,301 @@
+customer_id,name,email,company_size,industry,country,created_at
+1,Meera Mehta & Co.,client001@brightloop-demo.test,large,Manufacturing,India,2025-04-25
+2,Aarav Mehta & Co.,client002@brightloop-demo.test,small,Technology,Singapore,2024-12-24
+3,Riya Patel & Co.,client003@brightloop-demo.test,large,Retail,United Kingdom,2026-02-09
+4,Ananya Mehta & Co.,client004@brightloop-demo.test,large,Technology,Singapore,2025-09-09
+5,Dev Iyer & Co.,client005@brightloop-demo.test,large,Logistics,India,2026-08-20
+6,Ishaan Kapoor & Co.,client006@brightloop-demo.test,large,Manufacturing,United States,2025-03-31
+7,Arjun Singh & Co.,client007@brightloop-demo.test,medium,Manufacturing,United Kingdom,2024-12-06
+8,Ishaan Iyer & Co.,client008@brightloop-demo.test,small,Hospitality,Singapore,2026-08-18
+9,Ishaan Patel & Co.,client009@brightloop-demo.test,medium,Manufacturing,India,2025-01-14
+10,Kabir Das & Co.,client010@brightloop-demo.test,small,Education,India,2025-03-15
+11,Kabir Patel & Co.,client011@brightloop-demo.test,small,Logistics,India,2024-09-03
+12,Aarav Mehta & Co.,client012@brightloop-demo.test,large,Professional Services,United States,2025-04-08
+13,Vikram Mehta & Co.,client013@brightloop-demo.test,small,Professional Services,Australia,2025-03-28
+14,Kabir Mehta & Co.,client014@brightloop-demo.test,medium,Technology,Australia,2026-05-19
+15,Vikram Thomas & Co.,client015@brightloop-demo.test,large,Retail,United States,2024-10-20
+16,Riya Sharma & Co.,client016@brightloop-demo.test,medium,Retail,India,2024-10-07
+17,Ananya Sharma & Co.,client017@brightloop-demo.test,large,Healthcare,United Kingdom,2026-03-13
+18,Arjun Mehta & Co.,client018@brightloop-demo.test,large,Professional Services,United Kingdom,2026-03-11
+19,Meera Mehta & Co.,client019@brightloop-demo.test,large,Professional Services,Australia,2025-11-01
+20,Riya Singh & Co.,client020@brightloop-demo.test,large,Technology,Australia,2026-08-07
+21,Aarav Sharma & Co.,client021@brightloop-demo.test,medium,Technology,Australia,2025-03-02
+22,Meera Patel & Co.,client022@brightloop-demo.test,small,Logistics,Australia,2025-01-17
+23,Meera Patel & Co.,client023@brightloop-demo.test,large,Hospitality,United States,2025-12-18
+24,Nisha Mehta & Co.,client024@brightloop-demo.test,small,Hospitality,Australia,2026-02-21
+25,Ishaan Kapoor & Co.,client025@brightloop-demo.test,small,Professional Services,United States,2025-05-03
+26,Meera Patel & Co.,client026@brightloop-demo.test,medium,Manufacturing,United Kingdom,2026-02-06
+27,Arjun Bose & Co.,client027@brightloop-demo.test,medium,Retail,India,2026-02-18
+28,Vikram Patel & Co.,client028@brightloop-demo.test,small,Professional Services,Singapore,2026-06-17
+29,Meera Thomas & Co.,client029@brightloop-demo.test,medium,Retail,United Kingdom,2025-04-25
+30,Maya Das & Co.,client030@brightloop-demo.test,medium,Logistics,United Kingdom,2024-09-05
+31,Ananya Kapoor & Co.,client031@brightloop-demo.test,small,Retail,Australia,2026-01-21
+32,Dev Mehta & Co.,client032@brightloop-demo.test,large,Retail,United States,2025-03-10
+33,Aarav Bose & Co.,client033@brightloop-demo.test,large,Hospitality,United Kingdom,2024-11-11
+34,Kabir Nair & Co.,client034@brightloop-demo.test,small,Logistics,Australia,2025-02-21
+35,Meera Iyer & Co.,client035@brightloop-demo.test,medium,Technology,United States,2025-03-16
+36,Kabir Rao & Co.,client036@brightloop-demo.test,medium,Hospitality,Singapore,2025-08-30
+37,Ishaan Nair & Co.,client037@brightloop-demo.test,medium,Education,United Kingdom,2025-06-08
+38,Sara Mehta & Co.,client038@brightloop-demo.test,small,Professional Services,United Kingdom,2025-06-19
+39,Dev Rao & Co.,client039@brightloop-demo.test,small,Technology,Australia,2025-12-07
+40,Kabir Gupta & Co.,client040@brightloop-demo.test,small,Retail,Singapore,2024-12-31
+41,Riya Iyer & Co.,client041@brightloop-demo.test,small,Retail,Singapore,2025-06-29
+42,Ishaan Bose & Co.,client042@brightloop-demo.test,medium,Professional Services,United Kingdom,2025-10-06
+43,Arjun Das & Co.,client043@brightloop-demo.test,large,Professional Services,Australia,2025-09-20
+44,Ananya Iyer & Co.,client044@brightloop-demo.test,small,Manufacturing,India,2024-11-29
+45,Sara Rao & Co.,client045@brightloop-demo.test,medium,Retail,India,2025-05-07
+46,Aarav Bose & Co.,client046@brightloop-demo.test,large,Retail,Singapore,2026-05-22
+47,Dev Gupta & Co.,client047@brightloop-demo.test,large,Retail,Australia,2025-03-30
+48,Meera Thomas & Co.,client048@brightloop-demo.test,small,Hospitality,Australia,2025-10-14
+49,Aarav Sharma & Co.,client049@brightloop-demo.test,medium,Education,India,2025-05-10
+50,Arjun Nair & Co.,client050@brightloop-demo.test,small,Education,United Kingdom,2024-11-12
+51,Vikram Thomas & Co.,client051@brightloop-demo.test,large,Healthcare,Singapore,2025-11-16
+52,Ananya Thomas & Co.,client052@brightloop-demo.test,medium,Hospitality,India,2024-10-25
+53,Sara Rao & Co.,client053@brightloop-demo.test,medium,Technology,India,2025-05-12
+54,Sara Bose & Co.,client054@brightloop-demo.test,small,Hospitality,Singapore,2025-01-19
+55,Dev Das & Co.,client055@brightloop-demo.test,large,Manufacturing,Singapore,2025-12-19
+56,Dev Gupta & Co.,client056@brightloop-demo.test,medium,Education,Australia,2025-01-19
+57,Arjun Mehta & Co.,client057@brightloop-demo.test,small,Healthcare,India,2024-11-22
+58,Arjun Rao & Co.,client058@brightloop-demo.test,large,Retail,Australia,2025-11-21
+59,Arjun Bose & Co.,client059@brightloop-demo.test,large,Healthcare,United States,2025-08-20
+60,Meera Bose & Co.,client060@brightloop-demo.test,small,Manufacturing,Singapore,2026-06-10
+61,Ishaan Gupta & Co.,client061@brightloop-demo.test,small,Retail,United States,2026-01-02
+62,Ananya Iyer & Co.,client062@brightloop-demo.test,large,Professional Services,India,2024-12-02
+63,Kabir Sharma & Co.,client063@brightloop-demo.test,small,Retail,India,2026-03-16
+64,Sara Das & Co.,client064@brightloop-demo.test,small,Education,Singapore,2025-07-16
+65,Ananya Bose & Co.,client065@brightloop-demo.test,small,Technology,United States,2025-02-09
+66,Meera Sharma & Co.,client066@brightloop-demo.test,small,Retail,Australia,2026-04-05
+67,Aarav Nair & Co.,client067@brightloop-demo.test,large,Retail,United Kingdom,2024-09-05
+68,Ishaan Thomas & Co.,client068@brightloop-demo.test,large,Professional Services,United Kingdom,2025-07-07
+69,Ishaan Bose & Co.,client069@brightloop-demo.test,small,Healthcare,Singapore,2026-05-04
+70,Kabir Iyer & Co.,client070@brightloop-demo.test,medium,Education,Australia,2025-05-16
+71,Dev Sharma & Co.,client071@brightloop-demo.test,large,Retail,United Kingdom,2026-02-16
+72,Aarav Singh & Co.,client072@brightloop-demo.test,medium,Hospitality,India,2026-05-20
+73,Kabir Patel & Co.,client073@brightloop-demo.test,medium,Education,Singapore,2025-03-04
+74,Aarav Nair & Co.,client074@brightloop-demo.test,large,Technology,India,2025-04-23
+75,Nisha Das & Co.,client075@brightloop-demo.test,small,Education,United Kingdom,2026-04-17
+76,Maya Kapoor & Co.,client076@brightloop-demo.test,small,Retail,India,2025-10-18
+77,Kabir Das & Co.,client077@brightloop-demo.test,medium,Healthcare,United States,2025-09-08
+78,Dev Gupta & Co.,client078@brightloop-demo.test,medium,Manufacturing,United Kingdom,2025-08-11
+79,Ananya Thomas & Co.,client079@brightloop-demo.test,large,Retail,Australia,2024-08-31
+80,Sara Sharma & Co.,client080@brightloop-demo.test,medium,Hospitality,United Kingdom,2025-08-26
+81,Sara Singh & Co.,client081@brightloop-demo.test,medium,Hospitality,Singapore,2026-02-20
+82,Maya Das & Co.,client082@brightloop-demo.test,medium,Technology,Singapore,2024-12-04
+83,Meera Patel & Co.,client083@brightloop-demo.test,large,Manufacturing,Singapore,2025-02-23
+84,Vikram Mehta & Co.,client084@brightloop-demo.test,large,Hospitality,Australia,2025-01-22
+85,Kabir Iyer & Co.,client085@brightloop-demo.test,small,Healthcare,India,2025-03-25
+86,Vikram Sharma & Co.,client086@brightloop-demo.test,medium,Healthcare,India,2026-05-23
+87,Dev Das & Co.,client087@brightloop-demo.test,medium,Technology,United States,2025-08-06
+88,Meera Thomas & Co.,client088@brightloop-demo.test,large,Hospitality,India,2025-04-08
+89,Sara Nair & Co.,client089@brightloop-demo.test,small,Technology,India,2026-08-05
+90,Maya Singh & Co.,client090@brightloop-demo.test,medium,Hospitality,United Kingdom,2026-07-23
+91,Nisha Das & Co.,client091@brightloop-demo.test,large,Hospitality,United Kingdom,2025-05-16
+92,Maya Mehta & Co.,client092@brightloop-demo.test,large,Professional Services,Singapore,2025-03-21
+93,Kabir Kapoor & Co.,client093@brightloop-demo.test,large,Hospitality,India,2024-12-14
+94,Dev Thomas & Co.,client094@brightloop-demo.test,large,Technology,Australia,2025-11-13
+95,Dev Sharma & Co.,client095@brightloop-demo.test,small,Professional Services,India,2025-04-22
+96,Vikram Mehta & Co.,client096@brightloop-demo.test,medium,Manufacturing,Australia,2026-07-24
+97,Meera Iyer & Co.,client097@brightloop-demo.test,large,Healthcare,Australia,2025-09-27
+98,Nisha Sharma & Co.,client098@brightloop-demo.test,medium,Professional Services,United States,2025-12-02
+99,Nisha Iyer & Co.,client099@brightloop-demo.test,large,Logistics,Australia,2026-07-10
+100,Dev Thomas & Co.,client100@brightloop-demo.test,medium,Manufacturing,United Kingdom,2024-11-05
+101,Sara Mehta & Co.,client101@brightloop-demo.test,large,Professional Services,Singapore,2024-10-15
+102,Ishaan Rao & Co.,client102@brightloop-demo.test,large,Technology,Australia,2025-01-01
+103,Kabir Bose & Co.,client103@brightloop-demo.test,large,Professional Services,Australia,2026-03-29
+104,Meera Rao & Co.,client104@brightloop-demo.test,small,Healthcare,United States,2026-05-11
+105,Vikram Iyer & Co.,client105@brightloop-demo.test,small,Logistics,Australia,2025-03-10
+106,Nisha Kapoor & Co.,client106@brightloop-demo.test,large,Logistics,Singapore,2026-01-01
+107,Ananya Singh & Co.,client107@brightloop-demo.test,small,Logistics,United Kingdom,2025-07-08
+108,Meera Rao & Co.,client108@brightloop-demo.test,large,Healthcare,India,2025-10-26
+109,Arjun Singh & Co.,client109@brightloop-demo.test,small,Professional Services,United Kingdom,2025-10-15
+110,Riya Gupta & Co.,client110@brightloop-demo.test,large,Manufacturing,United States,2026-06-27
+111,Dev Singh & Co.,client111@brightloop-demo.test,medium,Technology,United Kingdom,2025-06-19
+112,Kabir Sharma & Co.,client112@brightloop-demo.test,small,Healthcare,Australia,2026-07-03
+113,Riya Gupta & Co.,client113@brightloop-demo.test,small,Healthcare,United States,2025-10-11
+114,Sara Gupta & Co.,client114@brightloop-demo.test,large,Hospitality,India,2025-11-24
+115,Ishaan Iyer & Co.,client115@brightloop-demo.test,large,Manufacturing,United States,2025-08-04
+116,Nisha Das & Co.,client116@brightloop-demo.test,medium,Hospitality,Australia,2026-09-11
+117,Ananya Mehta & Co.,client117@brightloop-demo.test,large,Logistics,United Kingdom,2026-04-02
+118,Arjun Nair & Co.,client118@brightloop-demo.test,small,Technology,United States,2025-01-26
+119,Dev Nair & Co.,client119@brightloop-demo.test,small,Technology,United States,2026-03-01
+120,Kabir Mehta & Co.,client120@brightloop-demo.test,medium,Manufacturing,India,2024-10-06
+121,Meera Iyer & Co.,client121@brightloop-demo.test,large,Logistics,United Kingdom,2025-09-18
+122,Sara Bose & Co.,client122@brightloop-demo.test,small,Technology,Australia,2026-05-25
+123,Ishaan Sharma & Co.,client123@brightloop-demo.test,large,Retail,India,2026-05-17
+124,Dev Mehta & Co.,client124@brightloop-demo.test,large,Education,Singapore,2025-09-01
+125,Nisha Singh & Co.,client125@brightloop-demo.test,large,Manufacturing,Singapore,2024-12-18
+126,Meera Singh & Co.,client126@brightloop-demo.test,large,Retail,Australia,2025-10-01
+127,Vikram Iyer & Co.,client127@brightloop-demo.test,medium,Retail,Singapore,2025-01-30
+128,Meera Singh & Co.,client128@brightloop-demo.test,medium,Education,United Kingdom,2025-06-03
+129,Nisha Iyer & Co.,client129@brightloop-demo.test,small,Education,Australia,2026-03-11
+130,Nisha Rao & Co.,client130@brightloop-demo.test,small,Manufacturing,United States,2025-04-25
+131,Nisha Patel & Co.,client131@brightloop-demo.test,large,Logistics,India,2025-01-03
+132,Nisha Rao & Co.,client132@brightloop-demo.test,medium,Hospitality,Australia,2025-09-19
+133,Riya Singh & Co.,client133@brightloop-demo.test,small,Logistics,Australia,2026-08-06
+134,Maya Rao & Co.,client134@brightloop-demo.test,large,Hospitality,Singapore,2025-07-17
+135,Arjun Patel & Co.,client135@brightloop-demo.test,medium,Education,United States,2025-06-30
+136,Nisha Rao & Co.,client136@brightloop-demo.test,large,Hospitality,Australia,2025-09-16
+137,Sara Rao & Co.,client137@brightloop-demo.test,small,Technology,India,2025-06-20
+138,Sara Bose & Co.,client138@brightloop-demo.test,medium,Manufacturing,Singapore,2024-11-10
+139,Maya Sharma & Co.,client139@brightloop-demo.test,large,Hospitality,Singapore,2025-11-06
+140,Kabir Iyer & Co.,client140@brightloop-demo.test,large,Retail,United States,2026-03-14
+141,Vikram Bose & Co.,client141@brightloop-demo.test,large,Logistics,Singapore,2026-01-04
+142,Arjun Kapoor & Co.,client142@brightloop-demo.test,small,Logistics,India,2026-06-24
+143,Meera Rao & Co.,client143@brightloop-demo.test,small,Technology,India,2026-02-02
+144,Meera Kapoor & Co.,client144@brightloop-demo.test,small,Hospitality,United States,2025-01-20
+145,Aarav Kapoor & Co.,client145@brightloop-demo.test,large,Hospitality,India,2025-11-05
+146,Ishaan Patel & Co.,client146@brightloop-demo.test,small,Education,United States,2025-01-24
+147,Meera Nair & Co.,client147@brightloop-demo.test,small,Healthcare,Australia,2024-11-12
+148,Arjun Thomas & Co.,client148@brightloop-demo.test,medium,Education,Australia,2024-10-05
+149,Nisha Iyer & Co.,client149@brightloop-demo.test,medium,Manufacturing,Singapore,2026-05-19
+150,Maya Iyer & Co.,client150@brightloop-demo.test,medium,Technology,United Kingdom,2024-12-20
+151,Aarav Nair & Co.,client151@brightloop-demo.test,small,Healthcare,Singapore,2024-12-14
+152,Ishaan Das & Co.,client152@brightloop-demo.test,medium,Education,United States,2026-03-07
+153,Ishaan Iyer & Co.,client153@brightloop-demo.test,large,Technology,Australia,2026-07-19
+154,Kabir Das & Co.,client154@brightloop-demo.test,medium,Retail,United States,2024-11-16
+155,Dev Kapoor & Co.,client155@brightloop-demo.test,large,Healthcare,Australia,2026-08-20
+156,Riya Nair & Co.,client156@brightloop-demo.test,medium,Manufacturing,United States,2025-11-13
+157,Maya Sharma & Co.,client157@brightloop-demo.test,large,Healthcare,India,2025-01-07
+158,Vikram Thomas & Co.,client158@brightloop-demo.test,large,Professional Services,United Kingdom,2024-10-13
+159,Maya Singh & Co.,client159@brightloop-demo.test,small,Retail,United States,2026-09-15
+160,Dev Das & Co.,client160@brightloop-demo.test,small,Manufacturing,Singapore,2026-02-18
+161,Maya Patel & Co.,client161@brightloop-demo.test,large,Healthcare,United States,2025-11-13
+162,Aarav Singh & Co.,client162@brightloop-demo.test,medium,Hospitality,United Kingdom,2025-10-08
+163,Ananya Kapoor & Co.,client163@brightloop-demo.test,large,Hospitality,India,2025-08-16
+164,Kabir Mehta & Co.,client164@brightloop-demo.test,medium,Hospitality,United States,2025-06-13
+165,Aarav Nair & Co.,client165@brightloop-demo.test,large,Technology,Australia,2026-04-29
+166,Dev Das & Co.,client166@brightloop-demo.test,large,Hospitality,India,2025-11-02
+167,Vikram Patel & Co.,client167@brightloop-demo.test,large,Hospitality,United States,2026-05-04
+168,Vikram Bose & Co.,client168@brightloop-demo.test,small,Manufacturing,United Kingdom,2025-07-12
+169,Nisha Thomas & Co.,client169@brightloop-demo.test,small,Professional Services,Singapore,2025-10-02
+170,Vikram Gupta & Co.,client170@brightloop-demo.test,small,Logistics,Singapore,2025-01-10
+171,Meera Thomas & Co.,client171@brightloop-demo.test,small,Education,United Kingdom,2025-08-18
+172,Dev Singh & Co.,client172@brightloop-demo.test,small,Logistics,India,2025-03-18
+173,Vikram Rao & Co.,client173@brightloop-demo.test,large,Professional Services,United States,2026-01-12
+174,Sara Gupta & Co.,client174@brightloop-demo.test,medium,Healthcare,India,2025-03-17
+175,Vikram Bose & Co.,client175@brightloop-demo.test,medium,Manufacturing,Singapore,2025-06-20
+176,Vikram Rao & Co.,client176@brightloop-demo.test,small,Logistics,India,2026-01-17
+177,Riya Rao & Co.,client177@brightloop-demo.test,small,Retail,United States,2026-06-01
+178,Arjun Gupta & Co.,client178@brightloop-demo.test,small,Hospitality,United States,2026-01-06
+179,Riya Mehta & Co.,client179@brightloop-demo.test,large,Technology,Australia,2025-08-07
+180,Dev Das & Co.,client180@brightloop-demo.test,medium,Hospitality,United Kingdom,2025-05-10
+181,Ishaan Mehta & Co.,client181@brightloop-demo.test,large,Logistics,Australia,2024-12-02
+182,Arjun Rao & Co.,client182@brightloop-demo.test,small,Technology,Australia,2025-10-11
+183,Kabir Bose & Co.,client183@brightloop-demo.test,large,Technology,Singapore,2025-02-04
+184,Aarav Sharma & Co.,client184@brightloop-demo.test,large,Logistics,Australia,2025-07-19
+185,Arjun Gupta & Co.,client185@brightloop-demo.test,medium,Technology,India,2025-10-13
+186,Nisha Bose & Co.,client186@brightloop-demo.test,small,Retail,Australia,2025-09-08
+187,Ananya Patel & Co.,client187@brightloop-demo.test,large,Education,Singapore,2025-12-07
+188,Nisha Mehta & Co.,client188@brightloop-demo.test,small,Manufacturing,United States,2026-04-08
+189,Meera Thomas & Co.,client189@brightloop-demo.test,small,Hospitality,United States,2026-05-21
+190,Meera Patel & Co.,client190@brightloop-demo.test,large,Education,India,2025-11-13
+191,Aarav Thomas & Co.,client191@brightloop-demo.test,medium,Professional Services,India,2024-09-11
+192,Ananya Rao & Co.,client192@brightloop-demo.test,small,Professional Services,Singapore,2024-10-25
+193,Arjun Thomas & Co.,client193@brightloop-demo.test,medium,Manufacturing,United States,2025-12-09
+194,Riya Patel & Co.,client194@brightloop-demo.test,small,Retail,India,2024-09-30
+195,Sara Singh & Co.,client195@brightloop-demo.test,large,Manufacturing,United States,2025-11-08
+196,Vikram Sharma & Co.,client196@brightloop-demo.test,large,Education,India,2024-12-31
+197,Kabir Singh & Co.,client197@brightloop-demo.test,medium,Healthcare,United States,2024-09-05
+198,Aarav Mehta & Co.,client198@brightloop-demo.test,large,Logistics,Singapore,2024-11-03
+199,Riya Patel & Co.,client199@brightloop-demo.test,medium,Logistics,Singapore,2025-06-17
+200,Sara Rao & Co.,client200@brightloop-demo.test,medium,Technology,United States,2025-09-27
+201,Maya Singh & Co.,client201@brightloop-demo.test,medium,Education,Australia,2025-01-09
+202,Dev Thomas & Co.,client202@brightloop-demo.test,medium,Manufacturing,India,2026-08-05
+203,Dev Thomas & Co.,client203@brightloop-demo.test,large,Logistics,United States,2024-09-08
+204,Ananya Kapoor & Co.,client204@brightloop-demo.test,small,Professional Services,United States,2025-03-27
+205,Dev Mehta & Co.,client205@brightloop-demo.test,large,Logistics,India,2025-05-22
+206,Maya Gupta & Co.,client206@brightloop-demo.test,medium,Logistics,Singapore,2026-01-14
+207,Maya Patel & Co.,client207@brightloop-demo.test,large,Education,United Kingdom,2024-11-26
+208,Dev Rao & Co.,client208@brightloop-demo.test,medium,Education,Singapore,2025-08-12
+209,Vikram Singh & Co.,client209@brightloop-demo.test,small,Hospitality,Singapore,2025-06-15
+210,Ishaan Das & Co.,client210@brightloop-demo.test,medium,Logistics,India,2025-03-18
+211,Arjun Kapoor & Co.,client211@brightloop-demo.test,large,Retail,Australia,2026-07-21
+212,Meera Kapoor & Co.,client212@brightloop-demo.test,medium,Healthcare,Australia,2024-09-17
+213,Ishaan Nair & Co.,client213@brightloop-demo.test,medium,Manufacturing,Australia,2025-01-24
+214,Vikram Iyer & Co.,client214@brightloop-demo.test,small,Healthcare,Australia,2025-04-20
+215,Ananya Das & Co.,client215@brightloop-demo.test,large,Retail,Australia,2024-10-27
+216,Dev Thomas & Co.,client216@brightloop-demo.test,large,Hospitality,Singapore,2026-02-22
+217,Dev Sharma & Co.,client217@brightloop-demo.test,medium,Education,Singapore,2025-04-10
+218,Kabir Sharma & Co.,client218@brightloop-demo.test,large,Logistics,Singapore,2025-08-19
+219,Maya Iyer & Co.,client219@brightloop-demo.test,large,Professional Services,Australia,2026-01-08
+220,Nisha Patel & Co.,client220@brightloop-demo.test,small,Hospitality,Singapore,2025-01-12
+221,Ananya Singh & Co.,client221@brightloop-demo.test,small,Hospitality,United Kingdom,2025-12-14
+222,Kabir Kapoor & Co.,client222@brightloop-demo.test,medium,Education,Singapore,2026-05-28
+223,Kabir Singh & Co.,client223@brightloop-demo.test,medium,Professional Services,India,2024-09-24
+224,Dev Gupta & Co.,client224@brightloop-demo.test,medium,Education,United Kingdom,2025-02-13
+225,Kabir Das & Co.,client225@brightloop-demo.test,small,Logistics,Singapore,2024-12-24
+226,Ananya Singh & Co.,client226@brightloop-demo.test,large,Logistics,Australia,2026-01-28
+227,Nisha Bose & Co.,client227@brightloop-demo.test,large,Education,United Kingdom,2026-06-27
+228,Riya Gupta & Co.,client228@brightloop-demo.test,small,Manufacturing,United Kingdom,2026-08-31
+229,Riya Iyer & Co.,client229@brightloop-demo.test,medium,Healthcare,Australia,2025-11-18
+230,Maya Sharma & Co.,client230@brightloop-demo.test,medium,Retail,United Kingdom,2025-06-24
+231,Meera Nair & Co.,client231@brightloop-demo.test,large,Logistics,United States,2026-02-11
+232,Ishaan Thomas & Co.,client232@brightloop-demo.test,large,Healthcare,Australia,2024-12-11
+233,Arjun Mehta & Co.,client233@brightloop-demo.test,large,Technology,India,2024-12-09
+234,Vikram Sharma & Co.,client234@brightloop-demo.test,medium,Healthcare,Australia,2025-07-06
+235,Arjun Mehta & Co.,client235@brightloop-demo.test,small,Retail,Australia,2026-01-30
+236,Dev Bose & Co.,client236@brightloop-demo.test,medium,Healthcare,United Kingdom,2024-11-08
+237,Meera Nair & Co.,client237@brightloop-demo.test,small,Education,United States,2025-01-11
+238,Vikram Patel & Co.,client238@brightloop-demo.test,large,Hospitality,Australia,2026-03-17
+239,Kabir Bose & Co.,client239@brightloop-demo.test,medium,Technology,Singapore,2024-11-25
+240,Kabir Singh & Co.,client240@brightloop-demo.test,large,Manufacturing,United Kingdom,2025-04-26
+241,Vikram Rao & Co.,client241@brightloop-demo.test,medium,Hospitality,United States,2026-05-03
+242,Ishaan Thomas & Co.,client242@brightloop-demo.test,medium,Education,Singapore,2026-09-17
+243,Dev Das & Co.,client243@brightloop-demo.test,medium,Education,India,2025-08-09
+244,Aarav Kapoor & Co.,client244@brightloop-demo.test,small,Technology,Australia,2026-05-09
+245,Meera Iyer & Co.,client245@brightloop-demo.test,small,Manufacturing,Australia,2026-05-03
+246,Ishaan Gupta & Co.,client246@brightloop-demo.test,medium,Education,United Kingdom,2026-04-22
+247,Nisha Patel & Co.,client247@brightloop-demo.test,large,Education,Singapore,2025-02-07
+248,Arjun Bose & Co.,client248@brightloop-demo.test,small,Logistics,United Kingdom,2024-11-03
+249,Maya Kapoor & Co.,client249@brightloop-demo.test,small,Retail,United States,2026-01-11
+250,Meera Das & Co.,client250@brightloop-demo.test,large,Healthcare,United States,2026-02-04
+251,Riya Patel & Co.,client251@brightloop-demo.test,medium,Retail,India,2025-10-27
+252,Ishaan Kapoor & Co.,client252@brightloop-demo.test,medium,Technology,Australia,2025-12-25
+253,Ananya Iyer & Co.,client253@brightloop-demo.test,large,Logistics,India,2024-08-25
+254,Arjun Iyer & Co.,client254@brightloop-demo.test,small,Education,Singapore,2024-10-12
+255,Ishaan Rao & Co.,client255@brightloop-demo.test,small,Logistics,Australia,2024-12-29
+256,Vikram Gupta & Co.,client256@brightloop-demo.test,small,Healthcare,Australia,2024-09-25
+257,Ishaan Thomas & Co.,client257@brightloop-demo.test,small,Hospitality,Singapore,2025-08-03
+258,Vikram Bose & Co.,client258@brightloop-demo.test,small,Manufacturing,United States,2026-05-15
+259,Nisha Iyer & Co.,client259@brightloop-demo.test,small,Logistics,United States,2025-01-07
+260,Maya Mehta & Co.,client260@brightloop-demo.test,medium,Technology,Australia,2025-06-08
+261,Vikram Sharma & Co.,client261@brightloop-demo.test,medium,Manufacturing,India,2026-02-04
+262,Arjun Bose & Co.,client262@brightloop-demo.test,large,Professional Services,United States,2025-06-25
+263,Dev Bose & Co.,client263@brightloop-demo.test,large,Logistics,United States,2025-08-05
+264,Maya Kapoor & Co.,client264@brightloop-demo.test,small,Education,India,2026-02-11
+265,Arjun Rao & Co.,client265@brightloop-demo.test,small,Professional Services,India,2025-09-10
+266,Nisha Patel & Co.,client266@brightloop-demo.test,large,Education,Australia,2025-09-25
+267,Ishaan Singh & Co.,client267@brightloop-demo.test,small,Technology,India,2026-04-01
+268,Kabir Rao & Co.,client268@brightloop-demo.test,medium,Hospitality,India,2026-03-16
+269,Sara Gupta & Co.,client269@brightloop-demo.test,small,Professional Services,India,2025-09-11
+270,Dev Singh & Co.,client270@brightloop-demo.test,large,Retail,Australia,2025-08-19
+271,Sara Singh & Co.,client271@brightloop-demo.test,large,Professional Services,United States,2024-12-28
+272,Ishaan Rao & Co.,client272@brightloop-demo.test,small,Logistics,Singapore,2026-06-07
+273,Sara Thomas & Co.,client273@brightloop-demo.test,medium,Logistics,Singapore,2026-03-12
+274,Sara Rao & Co.,client274@brightloop-demo.test,large,Technology,United Kingdom,2026-06-28
+275,Dev Bose & Co.,client275@brightloop-demo.test,large,Hospitality,Australia,2025-04-29
+276,Ananya Bose & Co.,client276@brightloop-demo.test,small,Technology,United States,2026-03-19
+277,Ishaan Das & Co.,client277@brightloop-demo.test,medium,Hospitality,India,2026-08-25
+278,Meera Kapoor & Co.,client278@brightloop-demo.test,large,Professional Services,Singapore,2025-05-06
+279,Maya Nair & Co.,client279@brightloop-demo.test,medium,Education,Singapore,2026-05-14
+280,Riya Iyer & Co.,client280@brightloop-demo.test,small,Healthcare,United Kingdom,2026-09-29
+281,Kabir Mehta & Co.,client281@brightloop-demo.test,large,Retail,Australia,2026-03-22
+282,Kabir Mehta & Co.,client282@brightloop-demo.test,small,Professional Services,Australia,2026-09-30
+283,Vikram Gupta & Co.,client283@brightloop-demo.test,small,Technology,Australia,2025-06-03
+284,Ishaan Bose & Co.,client284@brightloop-demo.test,small,Manufacturing,Australia,2024-10-25
+285,Riya Bose & Co.,client285@brightloop-demo.test,small,Logistics,Singapore,2025-05-17
+286,Ananya Sharma & Co.,client286@brightloop-demo.test,small,Manufacturing,Singapore,2026-03-07
+287,Vikram Thomas & Co.,client287@brightloop-demo.test,large,Manufacturing,India,2026-01-30
+288,Meera Gupta & Co.,client288@brightloop-demo.test,small,Technology,Australia,2024-12-16
+289,Ishaan Rao & Co.,client289@brightloop-demo.test,large,Healthcare,Singapore,2026-03-09
+290,Ishaan Mehta & Co.,client290@brightloop-demo.test,small,Professional Services,United States,2024-11-23
+291,Dev Singh & Co.,client291@brightloop-demo.test,large,Retail,United Kingdom,2026-07-08
+292,Ishaan Das & Co.,client292@brightloop-demo.test,large,Retail,India,2024-11-17
+293,Kabir Rao & Co.,client293@brightloop-demo.test,large,Healthcare,Singapore,2025-03-07
+294,Aarav Kapoor & Co.,client294@brightloop-demo.test,small,Technology,Singapore,2025-07-23
+295,Dev Singh & Co.,client295@brightloop-demo.test,large,Education,United Kingdom,2026-07-14
+296,Meera Gupta & Co.,client296@brightloop-demo.test,medium,Hospitality,India,2024-09-15
+297,Meera Singh & Co.,client297@brightloop-demo.test,medium,Retail,Australia,2025-02-28
+298,Arjun Das & Co.,client298@brightloop-demo.test,medium,Healthcare,United States,2026-04-29
+299,Maya Bose & Co.,client299@brightloop-demo.test,small,Healthcare,India,2024-09-29
+300,Riya Das & Co.,client300@brightloop-demo.test,medium,Retail,Australia,2024-09-08
