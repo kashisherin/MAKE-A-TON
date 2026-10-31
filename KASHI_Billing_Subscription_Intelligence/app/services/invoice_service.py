@@ -14,6 +14,7 @@ from app.models.financial import (
     DiscountRedemption,
     utc_now,
 )
+from app.core.config import settings
 from app.schemas.invoices import InvoiceCreate, InvoiceLineCreate
 from app.core.security import TenantContext
 from app.domain.taxation.engine import TaxEngine
@@ -97,7 +98,7 @@ class InvoiceService:
             )
         ).all()
 
-        default_gst_rate = Decimal("18.0000")  # Standard 18% GST default if no rule exists
+        default_gst_rate = settings.default_tax_rate_percent
         if tax_rules:
             active_rule = tax_rules[0]
             default_gst_rate = active_rule.rate_percent
