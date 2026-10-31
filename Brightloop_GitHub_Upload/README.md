@@ -73,3 +73,5 @@ User question -> Llama intent routing -> approved TwinEngine tool -> exact calcu
 ```
 
 The model cannot execute arbitrary Python, SQL, or shell commands. Simulations run on isolated copies and do not change the source database.
+Kindly please read all this
+install Ollama or it wont work
