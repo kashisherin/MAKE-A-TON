@@ -118,6 +118,34 @@ export default function LoginPage() {
             </div>
           )}
 
+          {/* Quick Demo Role Selector */}
+          <div className="mb-5">
+            <span className="block text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-2">1-Click Demo Fill</span>
+            <div className="grid grid-cols-3 gap-2 p-1 rounded-xl bg-white/[0.04] border border-white/10">
+              <button
+                type="button"
+                onClick={() => setForm({ email: 'admin@brightloop.com', password: 'AdminPass123!' })}
+                className="py-1.5 text-xs font-semibold rounded-lg transition-all text-purple-300 hover:bg-purple-500/20 active:scale-95"
+              >
+                👑 Admin
+              </button>
+              <button
+                type="button"
+                onClick={() => setForm({ email: 'staff@brightloop.com', password: 'StaffPass123!' })}
+                className="py-1.5 text-xs font-semibold rounded-lg transition-all text-blue-300 hover:bg-blue-500/20 active:scale-95"
+              >
+                👥 Staff
+              </button>
+              <button
+                type="button"
+                onClick={() => setForm({ email: 'customer@brightloop.com', password: 'CustomerPass123!' })}
+                className="py-1.5 text-xs font-semibold rounded-lg transition-all text-emerald-300 hover:bg-emerald-500/20 active:scale-95"
+              >
+                👤 Customer
+              </button>
+            </div>
+          </div>
+
           <form onSubmit={handleSubmit} className="space-y-5" noValidate>
             {/* Email */}
             <div>

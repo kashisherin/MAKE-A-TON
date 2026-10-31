@@ -8,7 +8,7 @@ import {
   HiOutlineSparkles,
   HiOutlineCheckCircle,
   HiOutlineExclamationTriangle,
-  HiOutlineShieldAlert,
+  HiOutlineShieldExclamation,
 } from 'react-icons/hi2';
 import toast from 'react-hot-toast';
 import { LoadingSpinner, StatusBadge } from '@/components/common';
@@ -188,7 +188,7 @@ export default function HealthScoreDetail() {
         {/* Diagnostic Reasons */}
         <div className="mt-8 pt-6 border-t border-slate-200 space-y-3">
           <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
-            <HiOutlineShieldAlert className="w-5 h-5 text-red-500" />
+            <HiOutlineShieldExclamation className="w-5 h-5 text-red-500" />
             Detected Risk Drivers
           </h3>
 

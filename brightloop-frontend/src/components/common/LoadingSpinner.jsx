@@ -7,7 +7,7 @@ const sizeClasses = {
   xl: 'h-16 w-16 border-4',
 };
 
-function Spinner({ size = 'md', className = '' }) {
+export function Spinner({ size = 'md', className = '' }) {
   return (
     <div
       className={`animate-spin rounded-full border-blue-500 border-t-transparent ${sizeClasses[size] || sizeClasses.md} ${className}`}

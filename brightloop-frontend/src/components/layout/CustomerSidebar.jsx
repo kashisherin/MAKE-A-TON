@@ -8,7 +8,6 @@ import {
   HiOutlineCreditCard,
   HiOutlineBolt,
   HiOutlineWallet,
-  HiOutlineClockIcon,
   HiOutlineClock,
   HiOutlineLightBulb,
   HiOutlineCog6Tooth,
